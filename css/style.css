@@ -91,12 +91,11 @@ a {
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 1fr;
         max-width: 900px;
-
     }
 
-
-
-   
+    .btn {
+        margin: 4rem 0 1rem;
+    }
 
     #sedans .btn:hover {
         background-color:hsl(31, 77%, 52%);
