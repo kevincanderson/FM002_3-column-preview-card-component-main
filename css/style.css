@@ -94,30 +94,27 @@ a {
 
     }
 
-    #sedans .btn,
-    #suvs .btn,
-    #luxury .btn {
-        background-color: transparent;
-        color: hsl(0, 0%, 95%);
-        margin: 4rem 0 1rem;
-    }
+
+
+   
 
     #sedans .btn:hover {
-        color:hsl(31, 77%, 52%);
+        background-color:hsl(31, 77%, 52%);
         cursor: pointer;
-        background-color: hsl(0, 0%, 95%);
+        color: hsl(0, 0%, 95%);
+        
     }
 
     #suvs .btn:hover {
-        color:hsl(184, 100%, 22%);
+        background-color:hsl(184, 100%, 22%);
         cursor: pointer;
-        background-color: hsl(0, 0%, 95%);
+        color: hsl(0, 0%, 95%);
     }
 
     #luxury .btn:hover {
-        color:hsl(179, 100%, 13%);
+        background-color:hsl(179, 100%, 13%);
         cursor: pointer;
-        background-color: hsl(0, 0%, 95%);
+        color: hsl(0, 0%, 95%);
     }
 
 }
